@@ -1,3 +1,3 @@
 # Algorithms
 Labs on Algorithms and Data Structers in ITMO University, done in C++.
-![download](https://user-images.githubusercontent.com/95085670/175139389-e94f687e-f029-4938-a506-f8e55f0ddd57.jpg)
+![itmo_horiz_white_eng](https://user-images.githubusercontent.com/95085670/175139670-4b2ff314-b361-4914-9c2a-7309a33487ed.jpg)
