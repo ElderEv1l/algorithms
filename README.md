@@ -10,9 +10,26 @@
   + PriorityQueue
 
 + Lab 4
+  + [Problems4](https://github.com/ElderEv1l/algorithms/blob/main/Lab4/problems4.pdf)
   + [Stack](https://github.com/ElderEv1l/algorithms/blob/main/Lab4/Stack.cpp)
   + [Queue](https://github.com/ElderEv1l/algorithms/blob/main/Lab4/Queue.cpp)
   + [Brackets](https://github.com/ElderEv1l/algorithms/blob/main/Lab4/Brackets.cpp)
   + [Postfix](https://github.com/ElderEv1l/algorithms/blob/main/Lab4/Postfix.cpp)
   + [BinSearch](https://github.com/ElderEv1l/algorithms/blob/main/Lab4/BinSearch.cpp)
   + [Garland](https://github.com/ElderEv1l/algorithms/blob/main/Lab4/Garland.cpp)
+
++ Lab 5
+  + [Problems5](https://github.com/ElderEv1l/algorithms/blob/main/Lab5/problems5.pdf)
+  + [Set](https://github.com/ElderEv1l/algorithms/blob/main/Lab5/Set.cpp)
+  + [Map](https://github.com/ElderEv1l/algorithms/blob/main/Lab5/Map.cpp)
+  + [LinkedMap](https://github.com/ElderEv1l/algorithms/blob/main/Lab5/LinkedMap.cpp)
+  + [MultiMap](https://github.com/ElderEv1l/algorithms/blob/main/Lab5/MultiMap.cpp)
+
++ Lab 6
+  + [Problems6](https://github.com/ElderEv1l/algorithms/blob/main/Lab6/problems6.pdf)
+  + [TreeHeight](https://github.com/ElderEv1l/algorithms/blob/main/Lab6/TreeHeight.cpp)
+  + [CheckTree](https://github.com/ElderEv1l/algorithms/blob/main/Lab6/CheckTree.cpp)
+  + [BstSimple](https://github.com/ElderEv1l/algorithms/blob/main/Lab6/BstSimple.cpp)
+  + Quack
+
++
