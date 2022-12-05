@@ -59,7 +59,6 @@
 
 + Lab 12
   ##### [Dynamic Programming](https://github.com/ElderEv1l/algorithms/blob/main/Lab12/Dynamic%20Programming/problems12_Dynamics.pdf)
-  + [Problems DP](https://github.com/ElderEv1l/algorithms/blob/main/Lab12/Dynamic%20Programming/problems12_Dynamics.pdf)
   + [Наибольшая возрастающая подпоследовательность](https://github.com/ElderEv1l/algorithms/blob/main/Lab12/Dynamic%20Programming/A.cpp)
   + Наибольшая возрастающая подпоследовательность 2
   + Общая подпоследовательность
@@ -67,15 +66,13 @@
   + [Выбор вершин дерева](https://github.com/ElderEv1l/algorithms/blob/main/Lab12/Dynamic%20Programming/E.cpp)
   + Дерево(сумма)
   + [Рюкзак](https://github.com/ElderEv1l/algorithms/blob/main/Lab12/Dynamic%20Programming/G.cpp)
-  ##### Streams
-  + [Problems Streams](https://github.com/ElderEv1l/algorithms/blob/main/Lab12/Streams/problems12_Streams.pdf)
+  ##### [Streams](https://github.com/ElderEv1l/algorithms/blob/main/Lab12/Streams/problems12_Streams.pdf)
   + [Максимальный поток](https://github.com/ElderEv1l/algorithms/blob/main/Lab12/Streams/IA.cpp)
   + [Паросочетание](https://github.com/ElderEv1l/algorithms/blob/main/Lab12/Streams/IB.cpp)
   + [Декомпозиция потока](https://github.com/ElderEv1l/algorithms/blob/main/Lab12/Streams/IC.cpp)
   + [Циркуляция](https://github.com/ElderEv1l/algorithms/blob/main/Lab12/Streams/ID.cpp)
 
-+ Lab 13
-  + [Problems13](https://github.com/ElderEv1l/algorithms/blob/main/Lab13/problems13.pdf)
++ [Lab 13](https://github.com/ElderEv1l/algorithms/blob/main/Lab13/problems13.pdf)
   + [Наивный поиск подстроки в строке](https://github.com/ElderEv1l/algorithms/blob/main/Lab13/A.cpp)
   + [Быстрый поиск подстроки в строке](https://github.com/ElderEv1l/algorithms/blob/main/Lab13/B.cpp)
   + [Префикс-функция](https://github.com/ElderEv1l/algorithms/blob/main/Lab13/C.cpp)
