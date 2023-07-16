@@ -7,15 +7,6 @@
   + [HeapSort](https://github.com/ElderEv1l/algorithms/blob/main/Lab3/HeapSort.cpp)
   + [RadixSort](https://github.com/ElderEv1l/algorithms/blob/main/Lab3/RadixSort.cpp)
   + PriorityQueue
- 
-<details>[Lab 3](https://github.com/ElderEv1l/algorithms/blob/main/Lab3/problems3.pdf)
-   
-  + [IsHeap](https://github.com/ElderEv1l/algorithms/blob/main/Lab3/IsHeap.cpp)
-  + [HeapSort](https://github.com/ElderEv1l/algorithms/blob/main/Lab3/HeapSort.cpp)
-  + [RadixSort](https://github.com/ElderEv1l/algorithms/blob/main/Lab3/RadixSort.cpp)
-  + PriorityQueue
-   
-</details>
 
 + [Lab 4](https://github.com/ElderEv1l/algorithms/blob/main/Lab4/problems4.pdf)
   + [Stack](https://github.com/ElderEv1l/algorithms/blob/main/Lab4/Stack.cpp)
